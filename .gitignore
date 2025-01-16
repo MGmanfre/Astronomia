@@ -169,3 +169,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+#Configuração de privacidade de senhas e chaves
+.env
